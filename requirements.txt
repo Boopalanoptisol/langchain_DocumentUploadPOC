@@ -1,0 +1,7 @@
+langchain===0.0.137
+openai
+chromadb
+python-dotenv===1.0.0
+streamlit
+PyPDF2==3.0.1
+
